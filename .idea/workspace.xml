@@ -2,72 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="81efd361-7264-4c7b-9c66-97d341dd7beb" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Home/static/bootstrap/fonts/glyphicons-halflings-regular.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Home/static/bootstrap/fonts/glyphicons-halflings-regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Home/static/bootstrap/fonts/glyphicons-halflings-regular.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Home/static/bootstrap/fonts/glyphicons-halflings-regular.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Home/static/font/iconfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Home/static/font/iconfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Home/static/font/iconfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Home/static/image/00.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Home/static/image/1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Home/static/image/2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Home/static/image/3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Home/static/image/4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Home/static/image/5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Home/static/image/index.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/static/assets/img/backgrounds/1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/static/assets/img/backgrounds/2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/static/assets/img/backgrounds/3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/static/assets/img/progress.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Home/static/bootstrap/css/bootstrap-theme.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Home/static/bootstrap/css/bootstrap-theme.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Home/static/bootstrap/css/bootstrap-theme.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Home/static/bootstrap/css/bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Home/static/bootstrap/css/bootstrap.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Home/static/bootstrap/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Home/static/bootstrap/fonts/glyphicons-halflings-regular.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Home/static/bootstrap/js/bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Home/static/bootstrap/js/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Home/static/bootstrap/js/npm.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Home/static/css/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Home/static/font/iconfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Home/static/index/about.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Home/static/index/diaocha-detail.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Home/static/index/diaochawenjuan.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Home/static/index/faxian.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Home/static/index/fuwu.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Home/static/index/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Home/static/index/my.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Home/static/index/notice-detail.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Home/static/index/notice.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Home/static/index/online.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Home/static/index/service-detail.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Home/static/index/service.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Home/static/index/yezhurenzheng.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Home/static/index/zushou-detail.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Home/static/index/zushou.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/Home/static/jquery-1.11.2.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/static/assets/css/reset.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/static/assets/css/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/static/assets/css/supersized.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/static/assets/js/jquery-1.8.2.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/static/assets/js/scripts.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/static/assets/js/supersized-init.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/static/assets/js/supersized.3.2.7.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/Admin/Controller/RepairController.class.php" afterPath="$PROJECT_DIR$/Application/Admin/Controller/RepairController.class.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/Admin/View/Repair/edit.html" afterPath="$PROJECT_DIR$/Application/Admin/View/Repair/edit.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/Admin/View/Repair/index.html" afterPath="$PROJECT_DIR$/Application/Admin/View/Repair/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/Home/Controller/IndexController.class.php" afterPath="$PROJECT_DIR$/Application/Home/Controller/IndexController.class.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/Home/View/default/User/login.html" afterPath="$PROJECT_DIR$/Application/Home/View/default/User/login.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Cache/Admin/b3562e7641e9507c2c53133a9b2f3649.php" afterPath="$PROJECT_DIR$/Runtime/Cache/Admin/b3562e7641e9507c2c53133a9b2f3649.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Cache/Admin/b956215329b6f9aca22277599a4efdfc.php" afterPath="$PROJECT_DIR$/Runtime/Cache/Admin/b956215329b6f9aca22277599a4efdfc.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Cache/Admin/bebbb551f58430e1d7154d620e287755.php" afterPath="$PROJECT_DIR$/Runtime/Cache/Admin/bebbb551f58430e1d7154d620e287755.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Cache/Home/769e70f2e46f34ceb60619bbda5e4691.php" afterPath="$PROJECT_DIR$/Runtime/Cache/Home/769e70f2e46f34ceb60619bbda5e4691.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Cache/Home/b171d71961885d3bf0f7a9b2e0867b01.php" afterPath="$PROJECT_DIR$/Runtime/Cache/Home/b171d71961885d3bf0f7a9b2e0867b01.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Logs/17_08_10.log" afterPath="$PROJECT_DIR$/Runtime/Logs/17_08_10.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Temp/cbc58bd3cdec352c980d0ad729b5c219.php" afterPath="$PROJECT_DIR$/Runtime/Temp/cbc58bd3cdec352c980d0ad729b5c219.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Logs/17_08_11.log" afterPath="$PROJECT_DIR$/Runtime/Logs/17_08_11.log" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Public/static/assets/css/reset.css" afterPath="$PROJECT_DIR$/assets/css/reset.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Public/static/assets/css/style.css" afterPath="$PROJECT_DIR$/assets/css/style.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Public/static/assets/css/supersized.css" afterPath="$PROJECT_DIR$/assets/css/supersized.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Public/static/assets/img/backgrounds/1.jpg" afterPath="$PROJECT_DIR$/assets/img/backgrounds/1.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Public/static/assets/img/backgrounds/2.jpg" afterPath="$PROJECT_DIR$/assets/img/backgrounds/2.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Public/static/assets/img/backgrounds/3.jpg" afterPath="$PROJECT_DIR$/assets/img/backgrounds/3.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Public/static/assets/img/progress.gif" afterPath="$PROJECT_DIR$/assets/img/progress.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Public/static/assets/js/jquery-1.8.2.min.js" afterPath="$PROJECT_DIR$/assets/js/jquery-1.8.2.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Public/static/assets/js/scripts.js" afterPath="$PROJECT_DIR$/assets/js/scripts.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Public/static/assets/js/supersized-init.js" afterPath="$PROJECT_DIR$/assets/js/supersized-init.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Public/static/assets/js/supersized.3.2.7.min.js" afterPath="$PROJECT_DIR$/assets/js/supersized.3.2.7.min.js" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -78,7 +25,31 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="login.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Application/Home/View/default/User/login.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="9" column="31" lean-forward="false" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
+              <folding>
+                <element signature="n#style#0;n#img#0;n#div#0;n#div#3;n#form#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#input#0;n#label#0;n#div#0;n#div#4;n#form#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="head.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Application/Home/View/default/Public/head.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="63">
+              <caret line="3" column="12" lean-forward="true" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -144,94 +115,6 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="onethink" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="onethink" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Application" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="onethink" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="onethink" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Application" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Home" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="onethink" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="onethink" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Application" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Home" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="View" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="default" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="User" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="onethink" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="onethink" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Application" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Home" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="View" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="default" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -246,8 +129,8 @@
       <recent name="E:\www\onethink\Public\static\assets\img" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\www\onethink\Public\static\assets\img" />
       <recent name="E:\www\onethink" />
+      <recent name="E:\www\onethink\Public\static\assets\img" />
       <recent name="E:\www\onethink\Public\static" />
       <recent name="E:\www\onethink\Public\Home" />
     </key>
@@ -338,12 +221,12 @@
       <option name="presentableId" value="Default" />
       <updated>1502373129876</updated>
       <workItem from="1502373138909" duration="747000" />
-      <workItem from="1502413182465" duration="12578000" />
+      <workItem from="1502413182465" duration="13962000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13325000" />
+    <option name="totallyTimeSpent" value="14709000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
@@ -488,14 +371,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Application/Home/View/default/Public/head.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="3" column="12" lean-forward="true" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Public/static/assets/img/facebook.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -521,9 +396,17 @@
         <state />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Application/Home/View/default/Public/head.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" column="12" lean-forward="true" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/assets/js/scripts.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
+        <state relative-caret-position="-213">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
@@ -531,8 +414,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Application/Home/View/default/User/login.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="61" column="23" lean-forward="false" selection-start-line="61" selection-start-column="23" selection-end-line="61" selection-end-column="23" />
+        <state relative-caret-position="189">
+          <caret line="9" column="31" lean-forward="false" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
           <folding>
             <element signature="n#style#0;n#img#0;n#div#0;n#div#3;n#form#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#input#0;n#label#0;n#div#0;n#div#4;n#form#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
