@@ -117,7 +117,10 @@
 			</div>
 		</div>
 
+		<!--<a class="ajax-get" title="处理中" href="<?php echo U('del?id='.$repair['id']);?>">处理中</a>-->
+		<!--<a class="ajax-get" title="已处理" href="<?php echo U('del?id='.$repair['id']);?>">已处理</a>-->
 		<div class="form-item">
+
 			<input type="hidden" name="id" value="<?php echo ((isset($info["id"]) && ($info["id"] !== ""))?($info["id"]):''); ?>">
 			<button class="btn submit-btn ajax-post" id="submit" type="submit" target-form="form-horizontal">确 定</button>
 			<button class="btn btn-return" onclick="javascript:history.back(-1);return false;">返 回</button>

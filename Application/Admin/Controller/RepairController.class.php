@@ -9,6 +9,8 @@
 namespace Admin\Controller;
 
 
+use Think\Page;
+
 class RepairController extends AdminController
 {
     /*
@@ -16,9 +18,16 @@ class RepairController extends AdminController
      */
     public function index()
     {
-        $list = M('Repair')->select();
+        $model =M('Repair');//实例化对象
+        $count  = $model->count();// 查询满足要求的总记录数
+        $Page   = new Page($count,10);//传入总记录数和每页显示的记录数
+        $show       = $Page->show();// 分页显示输出
+        $list = $model->limit($Page->firstRow.','.$Page->listRows)->select();
+//        $list = M('Repair')->select();
         $this->assign('list', $list);
+        $this->assign('page',$show);// 赋值分页输出
         $this->display();
+
     }
 
     /*

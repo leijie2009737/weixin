@@ -98,7 +98,7 @@
         <!-- 高级搜索 -->
         <div class="search-form fr cf">
             <div class="sleft">
-                <input type="text" name="nickname" class="search-input" value="<?php echo I('nickname');?>" placeholder="请输入用户昵称或者ID">
+                <input type="text" name="nickname" class="search-input" value="<?php echo I('nickname');?>" placeholder="请输入报修人名字">
                 <a class="sch-btn" href="javascript:;" id="search" url="<?php echo U('index');?>"><i class="btn-search"></i></a>
             </div>
         </div>
@@ -134,14 +134,14 @@
                             <a class="ajax-get" title="删除" href="<?php echo U('del?id='.$repair['id']);?>">删除</a>
                         </td>
                     </tr><?php endforeach; endif; else: echo "" ;endif; ?>
+
+
                 <?php else: ?>
                 <td colspan="9" class="text-center"> aOh! 暂时还没有内容! </td><?php endif; ?>
             </tbody>
         </table>
     </div>
-    <div class="page">
-        <?php echo ($_page); ?>
-    </div>
+    <div class="page"><?php echo ($page); ?></div>
 
         </div>
         <div class="cont-ft">
@@ -261,6 +261,8 @@
         });
         //导航高亮
         highlight_subnav('<?php echo U('Wuye/index');?>');
+
+
     </script>
 
 </body>
