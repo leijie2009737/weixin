@@ -6,24 +6,26 @@
  * Time: 14:26
  */
 
-namespace Admin\Controller;
+namespace Home\Controller;
 
 
+
+use Think\Controller;
 use Think\Page;
 
-class RepairController extends AdminController
+class RepairController extends HomeController
 {
     /*
-     *物业报修首页
+     *报修管理首页
      */
-    public function index()
+    public function noticeIndex()
     {
         $model =M('Repair');//实例化对象
         $count  = $model->count();// 查询满足要求的总记录数
         $Page   = new Page($count,10);//传入总记录数和每页显示的记录数
         $show       = $Page->show();// 分页显示输出
         $list = $model->limit($Page->firstRow.','.$Page->listRows)->select();
-
+//        $list = M('Repair')->select();
         $this->assign('list', $list);
         $this->assign('page',$show);// 赋值分页输出
         $this->display();
@@ -35,6 +37,7 @@ class RepairController extends AdminController
      */
     public function add()
     {
+
         if(IS_POST){
             $Channel = D('Repair');
             $data = $Channel->create();
@@ -54,6 +57,7 @@ class RepairController extends AdminController
             }
         } else {
             $this->assign('info',null);
+
             $this->display('edit');
         }
     }

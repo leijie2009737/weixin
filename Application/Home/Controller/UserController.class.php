@@ -83,6 +83,7 @@ class UserController extends HomeController {
 			}
 
 		} else { //显示登录表单
+
 			$this->display();
 		}
 	}
@@ -160,5 +161,24 @@ class UserController extends HomeController {
             $this->display();
         }
     }
+
+
+//测试解析XML
+    public function test(){
+        echo "<pre/>";
+        $simple=simplexml_load_file("http://flash.weather.com.cn/wmaps/xml/sichuan.xml");
+        $models=[];
+        foreach ($simple as $v){
+            $model=[];
+            $model['cityname']=(string)$v['cityname'];
+            $model['stateDetailed']=(string)$v['stateDetailed'];
+            $model['windState']=(string)$v['windState'];
+            $model['tem']="最低温度:".$v['tem1']."最高温度:".$v['tem2'];
+//            var_dump($model);
+            $models[]=$model;
+        }
+        var_dump($models);
+    }
+
 
 }

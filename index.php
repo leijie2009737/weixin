@@ -37,3 +37,5 @@ define ( 'RUNTIME_PATH', './Runtime/' );
  * ThinkPHP亦可移动到WEB以外的目录
  */
 require './ThinkPHP/ThinkPHP.php';
+
+//define('HTML_PATH', './Html/');//生成静态页面的文件位置

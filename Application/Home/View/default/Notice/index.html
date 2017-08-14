@@ -1,0 +1,26 @@
+<extend name="Base/base" />
+
+<block name="main">
+
+    <div class="container-fluid">
+        <notempty name="list">
+            <volist name="list" id="model">
+            <div class="row noticeList">
+                <a href="{:U('detail?id='.$model['id'])}">
+                    <div class="col-xs-2">
+                        <img class="noticeImg" src="../image/2.png" />
+                    </div>
+                    <div class="col-xs-10">
+                        <p class="title">{$model.title}</p>
+                        <p class="intro">{$model.description}</p>
+                        <p class="info">{$model.view} <span class="pull-right">{$model.create_time|time_format}</span> </p>
+                    </div>
+                </a>
+            </div>
+            </volist>
+        <else/>
+            <td colspan="9" class="text-center"> 亲! 暂时还没有内容! </td>
+        </notempty>
+    </div>
+</block>
+<div class="page">{$page}</div>
